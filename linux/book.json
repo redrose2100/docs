@@ -1,0 +1,12 @@
+{
+    "title": "Linux 从入门到精通",
+    "author": "redrose2100",
+    "description": "Linux 从入门到精通",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "links": {
+        "sidebar": {
+            "GitHub": "https://github.com/redrose2100/docs"
+        }
+    }
+}
